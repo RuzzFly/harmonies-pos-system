@@ -1,0 +1,53 @@
+{
+    "2": {
+        "date": "2026-11-05",
+        "order_type": "take-out",
+        "payment_method": "gcash",
+        "items": [
+            {
+                "item_id": "1",
+                "name": "Baked Sushi Pan",
+                "price": 250.0,
+                "quantity": 10
+            }
+        ],
+        "total": 2500.0,
+        "status": "paid"
+    },
+    "4": {
+        "date": "2026-11-05",
+        "order_type": "take-out",
+        "payment_method": "cash",
+        "items": [
+            {
+                "item_id": "1",
+                "name": "Baked Sushi Pan",
+                "price": 250.0,
+                "quantity": 5
+            }
+        ],
+        "total": 1250.0,
+        "status": "pending"
+    },
+    "5": {
+        "date": "2026-11-06",
+        "order_type": "take-out",
+        "payment_method": "gcash",
+        "items": [
+            {
+                "item_id": "2",
+                "name": "Beef Shawarma Wrap",
+                "price": 130.0,
+                "quantity": 2
+            },
+            {
+                "item_id": "4",
+                "name": "Ice Candy",
+                "price": 20.0,
+                "quantity": 3
+            }
+        ],
+        "total": 320.0,
+        "status": "paid"
+    }
+}

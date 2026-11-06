@@ -1,0 +1,22 @@
+{
+    "1": {
+        "name": "Baked Sushi Pan",
+        "price": 250.0,
+        "stock": 10
+    },
+    "2": {
+        "name": "Beef Shawarma Wrap",
+        "price": 130.0,
+        "stock": 8
+    },
+    "3": {
+        "name": "Spicy Tuna Wrap",
+        "price": 130.0,
+        "stock": 3
+    },
+    "4": {
+        "name": "Ice Candy",
+        "price": 20.0,
+        "stock": 17
+    }
+}
